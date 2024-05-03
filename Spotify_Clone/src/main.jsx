@@ -1,4 +1,7 @@
 import React from "react";
+import "./style.css";
+import ReactDOM from "react-dom";
+import App from "./App";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
