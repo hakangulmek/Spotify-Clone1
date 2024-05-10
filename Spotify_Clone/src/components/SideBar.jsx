@@ -7,7 +7,7 @@ import DowloadApp from "./sidebar/DowloadApp";
 
 function SideBar() {
   return (
-    <aside className="w-60 pt-6 flex flex-col">
+    <aside className="w-60 pt-6 flex-shrink-0 flex flex-col">
       <a href="#" className="mb-5 px-6">
         <img src={logo} alt="" className="h-10" />
       </a>
