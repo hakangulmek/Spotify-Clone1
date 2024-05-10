@@ -5,7 +5,7 @@ function Home() {
   const items = [
     {
       id: 1,
-      title: "Blinding Lights",
+      title: "Blinding Lightss",
       desc: "	The Weeknd",
       image:
         "https://upload.wikimedia.org/wikipedia/en/3/39/The_Weeknd_-_Starboy.png",
